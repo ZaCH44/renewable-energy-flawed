@@ -16,6 +16,8 @@ _This **text** has both!_
 
 ![sloth selfie](https://1d59b73swr1f1swu2v451xcx-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/brown-throated-sloth-Nortondefeis-toned-2160x1827.jpg)
 
+![puppy](https://user-images.githubusercontent.com/93089976/138603442-e97b5fa7-4b78-4b5f-88ae-fbe55278a972.jpg)
+
 1. This is number 1 of the list.
 2. This is number 2 of the list.
 3. This is number 3 of the list.
@@ -34,4 +36,3 @@ Burgers | Icecream
 Sandwiches | Brownies
 
 😶‍🌫️
-
